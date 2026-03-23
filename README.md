@@ -96,9 +96,8 @@ Make the landing page look like something build by Microsoft Frontpage in the 19
 5. Here’s mine - https://edskills-test1.vercel.app/
 6. Have a play - choose a theme for your landing page and a style. Then we can share and compare. 
 
-**Important note:**
-
-Coding with AI does involve some waiting time. This is because Claude will take time to code everything you ask. Be prepared for this today and in general. It is not instant! 
+>**Important note:**
+>Coding with AI does involve some waiting time. This is because Claude will take time to code everything you ask. Be prepared for this today and in >general. It is not instant! 
 
 ### 2.2 Committing your code to Github and deploying on Vercel
 
@@ -227,7 +226,7 @@ I want to show you the framework I’ve used over the last year. I have fully au
 
 We will use Google AI Studio OR Google Gemini for this. I don’t think it matters too much. I generally find AI Studio gives me a better output but try both. Both are free.
 
-WHY NOT USE CLAUDE? Simple, really[.](http://really.You) You will use up a lot of tokens with this process as the BMAD prompt is long. Save your tokens for coding, as Gemini does a good job. 
+>WHY NOT USE CLAUDE? Simple, really[.](http://really.You) You will use up a lot of tokens with this process as the BMAD prompt is long. Save your >tokens for coding, as Gemini does a good job. 
 
 EITHER create a Gemini Gem, or just add the BMAD prompt to the system instructions in AI Studio. You can find it in the Github repo. Then, follow the instructions! 
 
@@ -257,10 +256,10 @@ For this project today, I would suggest the following:
 
 You can specify this from the very start and Gemini will factor this in, pushing back if what you suggest isn’t what it would recommend. You genuinely don’t need to understand any of this to a particular degree, as AI will lead the technical side. This is just a tech stack I’ve used a lot that I know works. 
 
-**IMPORTANT POINT**
-DO. NOT. WORRY. Things WILL go wrong. A lot. 
-At any time you can ask Claude to guide you step by step. Just say something like “I am not sure what to do next. Take me step by step, assuming no prior knowledge.” I did this a lot in the early days. And learned a lot. 
-When you’re building today, do this first if you get stuck or if errors appear. It’s a vital skill to learn.
+>**IMPORTANT POINT**
+>DO. NOT. WORRY. Things WILL go wrong. A lot. 
+>At any time you can ask Claude to guide you step by step. Just say something like “I am not sure what to do next. Take me step by step, assuming no >prior knowledge.” I did this a lot in the early days. And learned a lot. 
+>When you’re building today, do this first if you get stuck or if errors appear. It’s a vital skill to learn.
 
 ### 3.4 Turning your planning docs into dev docs
 

@@ -97,7 +97,7 @@ Make the landing page look like something build by Microsoft Frontpage in the 19
 6. Have a play - choose a theme for your landing page and a style. Then we can share and compare. 
 
 >**Important note:**
->Coding with AI does involve some waiting time. This is because Claude will take time to code everything you ask. Be prepared for this today and in >general. It is not instant! 
+>Coding with AI does involve some waiting time. This is because Claude will take time to code everything you ask. Be prepared for this today and in general. It is not instant! 
 
 ### 2.2 Committing your code to Github and deploying on Vercel
 
@@ -153,7 +153,7 @@ Now, before we republish the page, we need to add the next auth env variable to 
 
 This MUST happen every time you add a new environment variable. It is a good idea to do this before pushing new commits to avoid build failures. 
 
-Ask Claude to restart the dev server and check authentication. O
+Ask Claude to restart the dev server and check authentication.
 
 ### 2.6 Adding a capture details form with backend in Supabase
 
@@ -226,7 +226,7 @@ I want to show you the framework I’ve used over the last year. I have fully au
 
 We will use Google AI Studio OR Google Gemini for this. I don’t think it matters too much. I generally find AI Studio gives me a better output but try both. Both are free.
 
->WHY NOT USE CLAUDE? Simple, really[.](http://really.You) You will use up a lot of tokens with this process as the BMAD prompt is long. Save your >tokens for coding, as Gemini does a good job. 
+>WHY NOT USE CLAUDE? Simple, really[.](http://really.You) You will use up a lot of tokens with this process as the BMAD prompt is long. Save your tokens for coding, as Gemini does a good job. 
 
 EITHER create a Gemini Gem, or just add the BMAD prompt to the system instructions in AI Studio. You can find it in the Github repo. Then, follow the instructions! 
 

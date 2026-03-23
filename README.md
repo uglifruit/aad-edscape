@@ -2,7 +2,7 @@
 
 ### How does Claude Code differ from AI chatbots like ChatGPT and Gemini?
 
-The main difference between Claude code and the chatbots that you will have more likely used is that not only will Claude write an output but it will also organise. What this means is that you can actually get it to carry out actions on your computer. When we're coding this means that it will:
+The main difference between Claude Code and the chatbots that you will have more likely used is that not only will Claude write an output but it will also carry out actions on your computer. When we're coding this means that it will:
 
 - create folders
 - create files inside of those folders

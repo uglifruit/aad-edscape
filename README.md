@@ -1,7 +1,5 @@
 ## Introduction
 
----
-
 ### How does Claude Code differ from AI chatbots like ChatGPT and Gemini?
 
 The main difference between Claude code and the chatbots that you will have more likely used is that not only will Claude write an output but it will also organise. What this means is that you can actually get it to carry out actions on your computer. When we're coding this means that it will:
@@ -20,8 +18,6 @@ One of the first things that we're going to do is we're actually going to set up
 **IMPORTANT**: A lot of what we will do this morning will not be coding - we are going to ensure we have the optimal environment to get the most out of Claude Code.
 
 ## 1. Setting up the environment
-
----
 
 1. My setup with VS Code - why VS Code and not Cursor? Just preference - can use either. Quick familiarisation with the interface. File browser, preview, Terminal, Status bar at the bottom via View.
 2. Other preferences - Light and dark mode, turning off windows etc. 
@@ -76,8 +72,6 @@ I want to make the page fun with some interactive features. Return your plan for
 ```
 
 ## 2. Building a simple next.js app
-
----
 
 We have our coding environment set up. Let’s focus on the language we will be building in. 
 
@@ -199,8 +193,6 @@ Having Vercel and Supabase CLIs set up is also massively helpful as Claude can l
 
 ## 3. Preparing for the main build
 
----
-
 ### 3.1 The importance of agents
 
 Before we launch into the longer coding session (where we build our own project), we need to set up a few additional features. We will be using a team of agents - one for planning, one for coding, and one for checking. My recommendation is that you use Opus for planning, but Sonnet for coding and checking. This will save you a lot of tokens as Sonnet works well as a coder when following instructions. 
@@ -321,8 +313,6 @@ Notice the command to keep it brief. You don’t want or need a bloated [CLAUDE.
 OK, that’s it! We are ready to build. It’s a lot of setting up, but once you have all in place you’ll find the building part is much smoother.
 
 ## 4. The build
-
----
 
 ### 4.1 Build protocol
 

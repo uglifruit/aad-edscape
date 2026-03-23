@@ -258,8 +258,7 @@ You can specify this from the very start and Gemini will factor this in, pushing
 
 >**IMPORTANT POINT**
 >DO. NOT. WORRY. Things WILL go wrong. A lot. 
->At any time you can ask Claude to guide you step by step. Just say something like “I am not sure what to do next. Take me step by step, assuming no >prior knowledge.” I did this a lot in the early days. And learned a lot. 
->When you’re building today, do this first if you get stuck or if errors appear. It’s a vital skill to learn.
+>At any time you can ask Claude to guide you step by step. Just say something like “I am not sure what to do next. Take me step by step, assuming no prior knowledge.” I did this a lot in the early days. And learned a lot. When you’re building today, do this first if you get stuck or if errors appear. It’s a vital skill to learn.
 
 ### 3.4 Turning your planning docs into dev docs
 

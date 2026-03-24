@@ -173,6 +173,9 @@ We will now add a guestbook to our site, so that users can see other comments on
 We will also enable persistent user authentication. We will do this using a Supabase backend.
 Please set this up, including adding env.example with instructions for what variables you need from supabase.
 We will be calling the supabase project teacher-vip-97.
+ensure you use THESE environment VARIABLES - NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
 ```
 ### 2.7 Adding some AI - a helper chatbot
 

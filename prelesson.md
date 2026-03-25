@@ -21,4 +21,5 @@ Also
 1. If you're a Mac user, download Homebrew here: https://brew.sh/ - this is a package manager specifically for Mac. It will enable you to download specific dev-related software easily on the day if we need it.
 
 2. Ensure you have Chrome web browser (the best for developers). Brave is also ok. Safari is fussier to use in my experience. If you're an Edge diehard then that should be fine, but Chrome works really well and it'll be the one I use. (And please do ensure you bring a laptop not just an iPad! Mac or PC makes no difference.)
-<img width="468" height="122" alt="image" src="https://github.com/user-attachments/assets/bb39cb78-1129-4211-8133-048ec08416bd" />
+
+3. Sign up to two services: Supabase.com and Openrouter.ai. No need to do anything with them just yet, but ensure you have free accounts.
